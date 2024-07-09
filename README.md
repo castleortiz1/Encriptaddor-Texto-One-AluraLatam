@@ -29,12 +29,12 @@ Para usar el proyecto, solo debes ingresar el texto que quieras encriptar o dese
 
 ## Créditos
 
-- [<Jonathan castillo>](https://github.com/castleortiz1)
+- <Jonathan Isai Castillo>(https://github.com/castleortiz1)
 
 ## Tecnologías Utilizadas
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Git
 - GitHub
